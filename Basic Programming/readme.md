@@ -1,3 +1,9 @@
+Write a program “PrintFriendsNames” that takes 3 friends’ names as input
+arguments and prints out “Hi” to these friends in the reverse of the order given. It
+also adds “and “ before the last name.
+For example:
+Input Arguments : Mahesh, Suresh, Devesh
+Output : “Hi Devesh, Suresh and Mahesh”
 # Printing Friends' Names in Java
 
 This program takes three friends' names as input and prints out a greeting to these friends in reverse order, adding "Hi" before the last name.
